@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+  
+  body{
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 18px;  
+  }
+
+  .menu__element{
+     font-weight: 600;
+     font-size: 15px;
+     line-height: 18px;
+  }
+  .component__menu{
+     font-weight: 600;
+     font-size: 15px;
+     line-height: 18px;
+  }
+
+  h1 {
+     font-weight: 600;
+     font-size: 90px;
+     line-height: 110px;
+  }
+  .top__title p {
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 18px; 
+  } 
+   h4 {
+     font-weight: 600;
+     font-size: 35px;
+     line-height: 43px; 
+   }
+   .dimension{
+     font-weight: 600;
+     font-size: 20px;
+     line-height: 24px; 
+   }
+   .dimension__desc{
+     font-weight: 400;
+     font-size: 12px;
+     line-height: 15px; 
+   }
+   .button__desc{
+     font-weight: 700;
+     font-size: 13px;
+     line-height: 16px;
+     text-transform: uppercase; 
+   }
+   .top__record button {
+     font-weight: 700;
+     font-size: 13px;
+     line-height: 16px;
+     text-align: center;
+     text-transform: uppercase;
+   }
+   .future__title{
+     font-weight: 600;
+     font-size: 70px;
+     line-height: 85px;  
+   }
+   h5{
+     font-weight: 600;
+     font-size: 30px;
+     line-height: 37px;
+   }
+   .benefits__title .first__title{
+     font-weight: 600;
+     font-size: 35px;
+     line-height: 43px;
+   }
+   .benefits__title {
+     font-weight: 600;
+     font-size: 20px;
+     line-height: 24px; 
+   }
+   .benefits__desc{
+     font-weight: 400;
+     font-size: 12px;
+     line-height: 15px;  
+   }
+   .learn__more {
+     font-weight: 700;
+     font-size: 13px;
+     line-height: 16px;
+     text-align: center;
+     text-transform: uppercase;
+   }
+   .button__right button{
+     font-weight: 700;
+     font-size: 13px;
+     line-height: 16px;
+     text-align: center;
+     text-transform: uppercase;  
+   }
+   .line__desc{
+     font-weight: 600;
+     font-size: 17px;
+     line-height: 15px; 
+   }
+   .protection__desc{
+     font-weight: 700;
+     font-size: 17px;
+     line-height: 21px;  
+   }
+   h3{
+     font-weight: 600;
+     font-size: 50px;
+     line-height: 61px;  
+   }
+   .banner__security{
+     font-weight: 600;
+     font-size: 25px;
+     line-height: 30px;  
+   }
+   h4{
+     font-weight: 600;
+     font-size: 30px;
+     line-height: 37px;
+   }
+   label{
+     font-style: bold;
+   }
